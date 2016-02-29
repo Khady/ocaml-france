@@ -1,6 +1,6 @@
-*Association OUPS*
+# Association OCaml France
 
-**Fonctionnement de l’association**
+## Fonctionnement de l’association
 
 L’association est régie par la loi du 1er Juillet 1901 et le décret du
 16 août 1901. Elle est donc considéré comme une personne morale ayant
@@ -14,13 +14,13 @@ de personnes.
 Ce fait clairement établi, l’association serait alors en pouvoir de
 délivrer régulièrement des reçus aux donateurs.
 
-**Article Premier - Nom**
+## Article Premier - Nom
 
 Il est fondé entre les adhérents aux présents status une association
 régie par la loi du 1er Juillet 1901 et le décret du 16 Août 1901,
-ayant pour titre : OUPS.
+ayant pour titre : OCaml France.
 
-**Article 2 - But / Objet**
+## Article 2 - But / Objet
 
 Cette association a pour objet de promouvoir l’utilisation et le
 développement d’OCaml; de favoriser son utilisations à des fins
@@ -29,7 +29,7 @@ artistique sans volonté commerciale et de favoriser la compréhension du
 langage et de ses applications.
 
 Les cibles de la promotion ne sont pas exhaustifs. Comme il a été dit,
-OUPS ne devrait pas seulement se limiter aux communautés avec lesquelles
+OCaml France ne devrait pas seulement se limiter aux communautés avec lesquelles
 les organisateurs sont déjà en relation et ne devrait pas se limiter a
 sa situation géographique. L’objectif est donc large et ne se limite
 qu’à la promotion d’OCaml.
@@ -50,21 +50,21 @@ envisagées pour atteindre l’objet. Il peut aussi être nécessaire de
 préciser l’exercice d’activités économiques si on considère que l’objet
 ou les moyens d’action impliquent des activités économiques.*
 
-**Article 3 - Siège Social**
+## Article 3 - Siège Social
 
 Le siège social est fixé à PARIS et peut être transféré dans un autre
 lieu par simple décision du Conseil d’Administration.
 
-**Article 4 - Durée**
+## Article 4 - Durée
 
 La durée de l’association est illimitée.
 
-**Article 5 - Composition**
+## Article 5 - Composition
 
-L'association OUPS se compose d’un groupement de personnes physiques ou
+L'association OCaml France se compose d’un groupement de personnes physiques ou
 morales.
 
-**Article 6 - Admission**
+## Article 6 - Admission
 
 L’affiliation à l’association ne peut être refusée à une personne que si
 elle ne satisfait pas aux conditions prévues par le Règlement Intérieur
@@ -85,7 +85,7 @@ paiement d’une cotisation annuelle dont le montant est fixé annuellement
 par le Conseil d’Administration et au respect des statuts et du
 Règlement Intérieur de l’association, s’il existe.
 
-**Article 7 - Membres / Cotisations**
+## Article 7 - Membres / Cotisations
 
 Les membres de l’Association contribuent à la vie matérielle de
 l’association par le versement d’une cotisation. Ce montant est fixé à
@@ -96,7 +96,7 @@ d’Administration qui pourra le cas échéant décider de la mise en place
 d’un droit d’entrée en sus pour les nouveaux adhérents et en fixer le
 montant.
 
-**Article 8 - Radiations**
+## Article 8 - Radiations
 
 La qualité de membre du club se perd par la démission ou par la
 radiation.
@@ -107,7 +107,7 @@ au règlement intérieur ou toute initiative directe ou indirecte visant à
 diffamer l’association ou certains de ses membres ou à porter atteinte
 aux objectifs poursuivis par l’association.
 
-**Article 10 - Ressources**
+## Article 10 - Ressources
 
 Les ressources de l’association comprennent:
 
@@ -137,7 +137,7 @@ justifier l’emploi des fonds. Toute personne membre de l’association
 peut avoir accès sur simple demande aux justificatifs de cette
 comptabilité.
 
-**Article 11 - Règlement Intérieur**
+## Article 11 - Règlement Intérieur
 
 Un règlement intérieur peut être établi par le Conseil d’Administration,
 qui le fait alors approuver par l’assemblée générale.
@@ -151,7 +151,7 @@ l’administration interne.
 Le règlement intérieur s’impose à tous les membres, au même titre que
 les statuts.
 
-**Article 12 - Le Conseil d’Administration**
+## Article 12 - Le Conseil d’Administration
 
 L’association est administrée par un Conseil d’Administration, qui
 exercent l’ensemble des attributions que les présents statuts
@@ -164,7 +164,7 @@ public par l’Assemblée Générale tous les ans. Ils sont rééligibles.
 Les hommes et les femmes ont un accès égal aux fonctions du Conseil
 d'Administration.
 
-**Article 13 - Réunion et délibération du Conseil d’Administration**
+## Article 13 - Réunion et délibération du Conseil d’Administration
 
 Le Conseil d’Administration se réunit au moins trois fois par an. Il est
 convoqué par le Président; la convocation est obligatoire lorsqu’elle
@@ -183,7 +183,7 @@ présents ou représentés.
 Il est rédigé un procès verbal de chacune des séances du conseil. Les
 procès-verbaux sont signés par le Président et le Secrétaire de séance.
 
-**Article 14 - Élection**
+## Article 14 - Élection
 
 Le Président est choisi parmi les membres du Conseil d’Administration
 sur proposition de celui-ci. Il est élu par l’Assemblée Générale au
@@ -197,7 +197,7 @@ composition est fixée par le Règlement Intérieur et qui comprend au
 moins un Trésorier. Le mandat du bureau prend fin avec celui du
 Président.
 
-**Article 15 - Pouvoirs du Président et du Bureau**
+## Article 15 - Pouvoirs du Président et du Bureau
 
 Le Président représente l'Association dans tous les actes de la vie
 civile et est investi de tout pouvoir à cet effet. Il a notamment
@@ -220,7 +220,7 @@ représentation de l’Association en justice ne peut être assurée, à
 défaut du Président, que par un mandataire agissant en vertu d’un
 pouvoir spécial.
 
-**Article 16 - Assemblée Générale**
+## Article 16 - Assemblée Générale
 
 Toutes les décisions excédant les pouvoirs des organes d’Administration
 sont prises collégialement par les membres de l’Association.
@@ -245,7 +245,7 @@ du jour.
 L’ordre du jour de l’Assemblée Générale est communiqué aux membres de
 l’Assemblée au moins quinze jours avant la date de l’Assemblée Générale.
 
-**Article 17 - Modification des statuts**
+## Article 17 - Modification des statuts
 
 Les statuts peuvent être modifiés par l'Assemblée Générale sur
 proposition du Bureau ou du Conseil d’Administration. Les propositions
@@ -254,7 +254,7 @@ convocation à l'Assemblée Générale. Les décisions de modification des
 statuts sont prises à la majorité des 2/3 des voix des membres présents
 ou représentés.
 
-**Article 18 - Dissolution**
+## Article 18 - Dissolution
 
 En cas de dissolution prononcée par les deux-tiers au moins des membres
 présents ou représentés, à la session de l'Assemblée Générale dûment
